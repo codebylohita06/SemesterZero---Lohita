@@ -9,3 +9,6 @@
 - **Career Goal:** To build a career in Biotechnology and explore the use of technology in biological research.
 - **Favourite Technology:** Artificial Intelligence (AI)
 - **Interesting Fact:** I enjoy learning how technology can be used to solve real-world problems.
+ 
+  I successfully completed my first GitHub repository.
+  
